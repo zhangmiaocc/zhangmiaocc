@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangmiaocc&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangmiaocc&show_icons=true&theme=cobalt)
 ### Hi There!
 - 👀 I’m ZhangMiao and I’m a Android/Flutter Developer.
 - 🔭 I’m currently working on a few flutter projects.
